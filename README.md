@@ -8,4 +8,4 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
   ~ Once the player reaches the water (i.e., the top of the game board), the game is won
 
 
-[(./images/demo.gif)]
+[![demo](./images/demo.gif)]
