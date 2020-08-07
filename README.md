@@ -11,4 +11,4 @@ without colliding into any one of the enemies.
 ~ Once the player reaches the water (i.e., the top of the game board), the game is won
 ```
 
-[![demo](./images/demo.gif)]
+![demo](./images/demo.gif)
